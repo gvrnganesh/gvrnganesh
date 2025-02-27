@@ -3,8 +3,8 @@
 ## 🚀 About Me
 I'm a passionate Full-Stack Developer specializing in the **MERN Stack**. I love building web applications, exploring new technologies, and solving real-world problems.
 
-- 🌱 Currently learning: Advanced React, Node.js, and DevOps  
-- 💼 Open to: Full-Stack Development roles | Remote/Onsite  
+- 🌱 Currently learning: Advanced React and Node.js  
+- 💼 Open to: Full-Stack Development roles | Front-End Development roles | Remote/Onsite  
 - 📫 How to reach me: [https://www.linkedin.com/in/gvrnganesh] | [gvrnganesh@gmail.com]
 
 ---
